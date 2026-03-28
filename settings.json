@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "poesgarden.aternos.me",
-    "port": 49189,
+    "ip": "",
+    "port": ,
     "version": "",
     "try-creative": false
   },
